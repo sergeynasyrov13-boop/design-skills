@@ -54,3 +54,12 @@ Take screenshot → Read output.png → fix → repeat until correct.
 3. Pillow getbbox() → trim transparent padding
 4. HTML/CSS card with Puppeteer iteration loop
 5. Export: `node ~/screenshot.mjs card.html card@2x.png 2` (1600×1600)
+
+## Brand Design Systems (awesome-design-md)
+
+73 real brand design systems in `design-systems/`. Use when asked to design "in the style of X".
+
+Available: stripe, apple, tesla, spotify, linear.app, figma, airbnb, nike, shopify, claude, revolut, uber, vercel, notion
+
+Usage: Read `design-systems/stripe.md` → apply colors/typography/components to card.
+Full collection: https://github.com/VoltAgent/awesome-design-md
